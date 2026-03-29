@@ -2,7 +2,7 @@ PROJECT CONFIDENTIAL: TrustVerify System Manifest
 --------------------------------------------------
 Project: TrustVerify CLI Tool
 Component: SHA-256 Hashing & RSA Digital Signatures
-Developer: [Your Name]
+Developers: [ASMA ,SUMAYA]
 Date: March 2026
 
 STATUS: 
