@@ -1,15 +1,18 @@
-PROJECT CONFIDENTIAL: NovaMind Implementation Details
+PROJECT CONFIDENTIAL: TrustVerify System Manifest
 --------------------------------------------------
-Project Objective: Secure CLI for File Integrity
-Security Level: Restricted
+Project: TrustVerify CLI Tool
+Component: SHA-256 Hashing & RSA Digital Signatures
+Developer: [Your Name]
 Date: March 2026
 
-This file contains sensitive project data. 
-Any unauthorized modification to this text will be 
-detected by the SHA-256 hashing algorithm. 
+STATUS: 
+The TrustVerify core engine is now operational. 
+This file is being used to demonstrate the 
+integrity-check capabilities of the system.
 
-The digital signature attached to the manifest 
-ensures that this document originated from the 
-authorized sender and has not been tampered with.
+SECURITY NOTICE: 
+This manifest protects the integrity of the 
+TrustVerify source files. Any unauthorized change 
+to this document will trigger an immediate alert.
 --------------------------------------------------
 End of File.
