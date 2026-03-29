@@ -1,0 +1,15 @@
+PROJECT CONFIDENTIAL: NovaMind Implementation Details
+--------------------------------------------------
+Project Objective: Secure CLI for File Integrity
+Security Level: Restricted
+Date: March 2026
+
+This file contains sensitive project data. 
+Any unauthorized modification to this text will be 
+detected by the SHA-256 hashing algorithm. 
+
+The digital signature attached to the manifest 
+ensures that this document originated from the 
+authorized sender and has not been tampered with.
+--------------------------------------------------
+End of File.
